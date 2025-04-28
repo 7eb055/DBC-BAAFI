@@ -1,6 +1,6 @@
 //Shopping Cart with Discounts
 let cart = [
-    { name: "shirt", price: 20, quantity: 2 },
+    { name: "shirt", price: 30, quantity: 2 },
     { name: "banana", price: 10, quantity: 2 },
     { name: "orange", price: 8, quantity: 1 }
 ];
