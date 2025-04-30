@@ -22,3 +22,18 @@ scores.map((eachScore) => {
  //}
 
 
+//lab2
+
+let student ={name : "Emmas",
+     age: 20,
+      grade: "A", 
+    subjects: ["Math", "Visual" ]};
+
+    const {name, grade} = student;
+    console.log(name, grade);
+
+    let profile = {...student, school: "MatysSHS"};
+
+    console.log(profile);
+
+    
